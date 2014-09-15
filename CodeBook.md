@@ -19,7 +19,7 @@ The source details are the following:
 
 > www.smartlab.ws
 
-### Data Set Information:
+### Data Set Information
 
 A series of experiments have been performed with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING UPSTAIRS, WALKING DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, the researchers captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset was randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
 
@@ -88,7 +88,7 @@ The R script **run_analysis.R** performs the following operations:
 
 The merged data set has a total of 10,299 observations, each with an identifier of the subject who carried out the experiment, an activity label, and 561 features from the time and frequency domain.
 
-Originally, the activity names were encoded as integer values from 1 to 6. The R script **run_analysis.R** modifies this encoding and uses the following:
+Originally, the activity names were encoded as integer values from 1 to 6. The R script **run_analysis.R** modifies this encoding and uses the following labeling:
 
 * 1 - WALKING
 * 2 - WALKING UP
@@ -97,7 +97,7 @@ Originally, the activity names were encoded as integer values from 1 to 6. The R
 * 5 - STANDING
 * 6 - LAYING
 
-Once the the measurements on the mean and standard deviation for each feature were extracted, the data set is left with the same 10,299 observations, each with an identifier, an activity label, and only 66 features from the extraction. The features' names use the same description given in **Data Set Features**. The final list is given below: 
+Once the measurements on the mean and standard deviation for each feature were extracted, the data set is left with the same 10,299 observations, each with an identifier, an activity label, and only 66 features from the extraction. The features' names use the same description given in **Data Set Features**. In all the names, the group of parentheses, that appears in the original names, were removed to facilitate the reading. The final list is given below: 
 
 1. subject
 2. activity
