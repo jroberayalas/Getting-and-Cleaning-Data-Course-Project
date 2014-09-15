@@ -15,4 +15,4 @@ This repo contains 4 files:
 3. A markdown **CodeBook.md** - describes the variables, the data, and any transformations or work that were performed to clean up the data
 4. A text file **tidyDataSet.txt** - the tidy data set created
 
-The data was saved on its own directory called "Data", and read using the R script run_analysis.R
+The data was saved on its own directory called *Data*, and read using the R script **run_analysis.R**.
