@@ -61,6 +61,7 @@ data.extracted <- cbind(subject = data$subject, selection.mean, selection.std, a
 ## Create a second, independent tidy data set with the average of each variable for each activity and each subjec
 averages <- data.extracted %>% group_by(subject, activity) %>%
     summarise_each(funs(mean))
+names(averages) <- gsub("\\(\\)", "", names(averages))
 
 
 # Write the tidy data set created
