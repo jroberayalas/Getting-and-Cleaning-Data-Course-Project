@@ -175,4 +175,4 @@ Using the data set with extracted features, it is possible to perform the 5th st
 * Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012.
 * SmartLab, Human Activity Recognition Using Smartphones Data Set, https://sites.google.com/site/smartlabunige/software-datasets/har-dataset
 * UCI Machine Learning Repository, Human Activity Recognition Using Smartphones Data Set, http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-* David's project FAQ, Getting and Cleaning Data Course Project Forum, https://class.coursera.org/getdata-007/forum/thread?thread_id=49
+* Getting and Cleaning Data Course Project Forum, David's project FAQ, https://class.coursera.org/getdata-007/forum/thread?thread_id=49
