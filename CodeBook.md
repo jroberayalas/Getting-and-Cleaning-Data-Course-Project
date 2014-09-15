@@ -168,7 +168,7 @@ Once the measurements on the mean and standard deviation for each feature were e
 67. fBodyBodyGyroMag-std
 68. fBodyBodyGyroJerkMag-std
 
-Using the data set with extracted features, it is possible to perform the 5th step of the operations and create a second independent tidy data set with the average of each variable for each activity and each subject. This new data set has 180 rows (one for each combination of activity and subject), and 68 columns (one for the subject, one for the activity, and 66 for each of the measured features).
+Using the data set with extracted features, it is possible to perform the 5th step of the operations and create a second independent tidy data set with the average of each variable for each activity and each subject. This new data set has 180 rows (one for each combination of activity and subject), and 68 columns (one for the subject, one for the activity, and 66 for each average of the measured features).
 
 ### References
 
