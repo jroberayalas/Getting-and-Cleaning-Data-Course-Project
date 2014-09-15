@@ -13,7 +13,7 @@ The source details are the following:
 
 > Smartlab - Non Linear Complex Systems Laboratory
 
-> DITEN - Università degli Studi di Genova, Genoa I-16145, Italy.
+> DITEN - Università degli Studi di Genova, Genova I-16145, Italy.
 
 > activityrecognition@smartlab.ws
 
